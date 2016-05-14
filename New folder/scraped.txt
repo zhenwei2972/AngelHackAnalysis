@@ -42,3 +42,54 @@ Should you prefer to forage the urban way, fresh-picked dandelion greens of both
 This recipe is modeled after a classic Parisian salad with lardons, beets and eggs, but the garlicky, mustardy vinaigrette has fresh ginger and lime juice, too, to stand up to dandelions’ earthy flavor. It still tastes very French, especially with the goat cheese toasts.
 And so much tastier than a green superfood smoothie, n’est-ce pas?
 Recipe: Dandelion Salad With Beets, Bacon and Goat Cheese Toasts
+
+{'occurrences': 16, 'weight': 208, 'documents': 15, 'term': 'TESTILY'}
+{'occurrences': 1050, 'weight': 163, 'documents': 211, 'term': 'HOHMANN'}
+{'occurrences': 3296, 'weight': 134, 'documents': 1190, 'term': 'BIOMETRIC'}
+{'occurrences': 3499, 'weight': 129, 'documents': 1599, 'term': 'ABT'}
+{'occurrences': 5755, 'weight': 126, 'documents': 1959, 'term': 'WAPO'}
+{'occurrences': 11568, 'weight': 118, 'documents': 3058, 'term': 'CADENCE'}
+{'occurrences': 4390, 'weight': 115, 'documents': 3734, 'term': 'PUBLICIST'}
+{'occurrences': 6981, 'weight': 115, 'documents': 3587, 'term': 'SCAMS'}
+{'occurrences': 9967, 'weight': 111, 'documents': 4531, 'term': 'TWEETED'}
+{'occurrences': 5684, 'weight': 110, 'documents': 5031, 'term': 'RESURFACED'}
+{'occurrences': 6734, 'weight': 107, 'documents': 5789, 'term': 'ANSWERING'}
+{'occurrences': 14427, 'weight': 107, 'documents': 6021, 'term': 'CERTAINTY'}
+{'occurrences': 18288, 'weight': 100, 'documents': 8761, 'term': 'FORENSIC'}
+{'occurrences': 24116, 'weight': 99, 'documents': 9592, 'term': 'SPOKESPERSON?'}
+{'occurrences': 29821, 'weight': 94, 'documents': 12790, 'term': 'ABSOLUTELY'}
+{'occurrences': 34828, 'weight': 94, 'documents': 13032, 'term': 'SPOKESMAN'}
+{'occurrences': 27232, 'weight': 90, 'documents': 16347, 'term': 'CNN'}
+{'occurrences': 19068, 'weight': 90, 'documents': 16401, 'term': 'EMPLOY'}
+{'occurrences': 49164, 'weight': 90, 'documents': 15762, 'term': 'TESTIFIED'}
+{'occurrences': 20810, 'weight': 89, 'documents': 17444, 'term': 'EXPLICITLY'}
+{'occurrences': 23073, 'weight': 88, 'documents': 17808, 'term': 'PSEUDONYM'}
+{'occurrences': 25000, 'weight': 87, 'documents': 19276, 'term': 'ISN'}
+{'occurrences': 62850, 'weight': 86, 'documents': 20090, 'term': 'TESTIMONY'}
+{'occurrences': 48839, 'weight': 85, 'documents': 21197, 'term': 'APPRECIATION'}
+{'occurrences': 43821, 'weight': 82, 'documents': 26385, 'term': 'ROUTINELY'}
+{'occurrences': 93752, 'weight': 81, 'documents': 28242, 'term': 'CRITERIA'}
+{'occurrences': 62063, 'weight': 81, 'documents': 27698, 'term': 'NBC'}
+{'occurrences': 98462, 'weight': 81, 'documents': 28059, 'term': 'TRUMP'}
+{'occurrences': 57206, 'weight': 80, 'documents': 28680, 'term': 'OWENS'}
+{'occurrences': 109653, 'weight': 80, 'documents': 29496, 'term': 'TELEPHONE'}
+{'occurrences': 87904, 'weight': 79, 'documents': 31470, 'term': 'AFTERNOON'}
+{'occurrences': 42186, 'weight': 78, 'documents': 32089, 'term': 'WASN'}
+{'occurrences': 55022, 'weight': 76, 'documents': 38047, 'term': 'COPY'}
+{'occurrences': 92559, 'weight': 74, 'documents': 40607, 'term': 'ANCHORS'}
+{'occurrences': 62831, 'weight': 74, 'documents': 40992, 'term': 'DOESN'}
+{'occurrences': 65885, 'weight': 74, 'documents': 42568, 'term': 'FRIDAY'}
+{'occurrences': 64667, 'weight': 74, 'documents': 42819, 'term': 'LL'}
+{'occurrences': 55630, 'weight': 74, 'documents': 40931, 'term': 'SPECIALIST'}
+{'occurrences': 76496, 'weight': 73, 'documents': 45003, 'term': 'DONALD'}
+{'occurrences': 93909, 'weight': 73, 'documents': 44654, 'term': 'PHONE'}
+{'occurrences': 59201, 'weight': 73, 'documents': 44102, 'term': 'POINTED'}
+{'occurrences': 199411, 'weight': 72, 'documents': 47992, 'term': 'AUDIO'}
+{'occurrences': 78770, 'weight': 72, 'documents': 47289, 'term': 'POSING'}
+{'occurrences': 68171, 'weight': 71, 'documents': 50109, 'term': 'AGO'}
+{'occurrences': 155950, 'weight': 70, 'documents': 52248, 'term': 'SILENT'}
+{'occurrences': 193830, 'weight': 69, 'documents': 55736, 'term': 'BARRON'}
+{'occurrences': 95682, 'weight': 68, 'documents': 59624, 'term': 'ADVOCATING'}
+{'occurrences': 88397, 'weight': 68, 'documents': 59702, 'term': 'DIDN'}
+{'occurrences': 180432, 'weight': 67, 'documents': 62430, 'term': 'PITCH'}
+{'occurrences': 95815, 'weight': 65, 'documents': 71404, 'term': 'CONCLUDE'}
